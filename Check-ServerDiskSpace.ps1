@@ -1,7 +1,4 @@
 <#
-.SYNOPSIS
-  <Overview of script>
-
 .DESCRIPTION
   Pulls list of servers from AD and scans all disks for low free space
 
